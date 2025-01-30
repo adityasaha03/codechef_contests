@@ -122,7 +122,7 @@ int main() {
         }
         cout<<flag<<endl;
 	}
-
+return 0;
 }
 
 
